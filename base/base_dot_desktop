@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=$filename
+Exec=$EXEC_PATH
+Icon=$ICON_PATH
+Terminal=true
+Comment=This is a custom desktop entry created from base configuration.
+
